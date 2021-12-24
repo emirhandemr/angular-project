@@ -1,4 +1,6 @@
-# Angular Project #1
+--node.js 16.13.1, angular-cli 13.1.1, database: firebase, hosting on: https://angular-project-2c4a2.web.app/
+
+# RecipeBook
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
 
